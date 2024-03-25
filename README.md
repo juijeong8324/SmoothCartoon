@@ -60,7 +60,7 @@ def cartoonize(img):
 
 - 색의 대비가 명확한 경우와 명확하지 않은 경우, 좋은 cartoon style을 적용하기 위한 kernerl size와 line size가 다르다.
   EX) kernel = 3 line = 7
-  ![good](image.png)
+  ![good](/img/good.png)
   - 잘된 예
-    ![bad](image-1.png)
+    ![bad](/img/bad.png)
   - 잘 안된 예
